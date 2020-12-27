@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "intersection-observer": "^0.10.0",
-    "lozad": "^1.15.0"
+    "lozad": "niklas-may/lozad.js"
   },
   "devDependencies": {
     "codecov": "latest",
